@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Welcome to dataisreal.org!"
+date:   2019-08-10 09:18:27 -0700
+author: "M. M. B. Baldwin"
+categories: maintenance
+---
+We're just getting started but we're thrilled that you're here.
+
+# Why are we here?
+There is a lot of confusing information in the world, and its too easy to get data to say whatever you want it to. We
+hope that we can be a resource that reduces the confusion and creates a place of trust and clarity.
+
+# What will we post here?
+There are so many interesting topics worth review that we can't narrow it down to just one. We love data about politics, 
+populations, science, and weird stuff. Really we're willing to discuss any topic, as long as there is data.
+
+# Are you another right/left wing conspiracy site?
+We have political opinions, but we try to remain neutral and present multiple sides to every argument—and back everything 
+up with data, graphs, and charts.
+
+# Okay, whatever, where can I learn more?
+Visit our [about page](/about) for a comprehensive list of FAQs or reach out to us on twitter at [@dataisreal_org](https://twitter.com/dataisreal_org).
+
+# So, um, can I post something on your blog?
+Sure. We love to read stuff from lots of different perspectives. Read our [contributing page](/contributing) for more details.
