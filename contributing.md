@@ -18,6 +18,8 @@ At a minimum the header of the file should include:
 * `author` with your real name or a pen name
 * at last one entry in `categories`
 
+Add new posts to [GitHub Pages Repo](http://github.com/dataisreal/dataisreal.github.io).
+
 ## Show your work.
 
 We want to build the reputation of having solid, evidence-based, information on this blog. For that reason we require you
@@ -30,7 +32,7 @@ that generates graphs, charts, CSV files, etc., but we will also accept OpenOffi
 or Excel (since most spreadsheet software can open Excel). 
 * Please try to document your code or files so that they are easy to understand and include a `README.md` file with instructions 
 for building the code and downloading requirements.
-* In your commit(s) to the repository either include your resources (code, files, etc.) in the commit or a link to the location 
+* In your commit(s) to the [data repository](http://github.com/dataisreal/data) either include your resources (code, files, etc.) in the commit or a link to the location 
 where they can be found.
   * Code added to this repo should be in its own root directory, isolated from any other code.
   * The directory should be named `[publish date in YYYY-MM-DD]-[name of post]`
