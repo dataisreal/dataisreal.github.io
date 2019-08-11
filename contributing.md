@@ -61,6 +61,10 @@ We post affiliate links for various books and products. You are welcome to use t
 you may use those in addition to or instead of ours. If you choose to split between the two, that's great.
 Basically, affiliate links are okay as long at it doesn't violate our "promoting products" section.
 
+|Company|Tag|
+|---|---|
+|Amazon|tag=datir-20|
+
 ## General Rules
 
 * Please refrain from any profanity.
@@ -72,7 +76,8 @@ Basically, affiliate links are okay as long at it doesn't violate our "promoting
 
 By submitting one or more files to us, you grant us the right to publish your work. In addition, you will not receive any royalties
 for works you produce for this site. You retain the right to publish your work elsewhere (another blog, a book, etc.) but for purposes
-of legality, we retain joint copyright for works on this blog and in this repository.
+of legality, we retain joint copyright for works on this blog and in this repository. We also retain the right to make small
+changes to your content if necessary.
 
 Anything published on this site is licenced under the MIT license, so keep that in mind as well.
 
