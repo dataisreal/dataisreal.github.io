@@ -18,6 +18,9 @@ At a minimum the header of the file should include:
 * `author` with your real name or a pen name
 * at last one entry in `categories`
 
+Optionally you may include:
+* `author-website` with an absolute URL including the protocol.
+
 Add new posts to [GitHub Pages Repo](http://github.com/dataisreal/dataisreal.github.io).
 
 ## Show your work.
